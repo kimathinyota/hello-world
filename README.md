@@ -1,2 +1,2 @@
-# hello-world
-Simple Hello World Program
+#hello-world
+Hi guys, this is my first time using GitHub.
